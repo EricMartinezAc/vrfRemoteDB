@@ -1,0 +1,123 @@
+body{
+    font-size: 18px !important;
+    padding-bottom: 70px;
+}
+
+
+.navbar-brand{
+    
+    padding: 5px 5px !important;
+
+
+}
+
+.navbar{
+    font-family: 'Baloo Bhaina', cursive;
+    
+    min-height: 60px !important;
+    background:#115DA4 !important;
+    
+}
+
+.navbar-nav > li{
+    margin-top: 5px !important;
+}
+
+.navbar-default .navbar-nav > li > a{
+    color: #fff !important;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #fff !important;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+    background: rgba(17,93,164,1);
+    background: -moz-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(17,93,164,1)), color-stop(52%, rgba(110,140,245,1)), color-stop(100%, rgba(17,93,164,1)));
+    background: -webkit-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: -o-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: -ms-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: linear-gradient(to bottom, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#115da4', endColorstr='#115da4', GradientType=0 );
+    color: #fff !important;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+     background: rgba(17,93,164,1);
+    background: -moz-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(17,93,164,1)), color-stop(52%, rgba(110,140,245,1)), color-stop(100%, rgba(17,93,164,1)));
+    background: -webkit-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: -o-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: -ms-linear-gradient(top, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    background: linear-gradient(to bottom, rgba(17,93,164,1) 0%, rgba(110,140,245,1) 52%, rgba(17,93,164,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#115da4', endColorstr='#115da4', GradientType=0 );
+    color: #fff !important;
+}
+
+@media (max-width: 767px){
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff !important;
+}
+
+}
+
+p{
+    text-align: justify;
+}
+
+.fondo{
+    background: #128AFA;
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.flex-parent{
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  min-height: 700px !important;
+}
+ 
+.flex-child{
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.fondo2{
+
+    min-height: 550px;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    background: rgba(147,206,222,1);
+background: -moz-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(147,206,222,1)), color-stop(41%, rgba(117,189,209,1)), color-stop(100%, rgba(73,165,191,1)));
+background: -webkit-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: -o-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: -ms-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+background: linear-gradient(to right, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93cede', endColorstr='#49a5bf', GradientType=1 );
+    margin-top: 60px !important;
+
+}
+
+.cke_panel { 
+z-index: 1000000000002 !important; 
+}
+
+.modal-header{
+    background:#115DA4 !important;
+    color: #fff !important;
+}

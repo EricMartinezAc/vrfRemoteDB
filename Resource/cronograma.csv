@@ -1,0 +1,16 @@
+id;dia;mes;año;cliente;oficina;aarea;tipoact;tipoeq;he;hs;nosem;tec;aux
+18001;22;6;18;banco de bogota;local experiencia;interior;mantenimiento preventivo;AA, VCE;8:00:00;10:00:00;3;jhonys de moya;adolfo escobar
+18002;22;6;18;banco de bogota;local vivienda;interior;mantenimiento preventivo;AA,VCE;12:00:00;14:00:00;3;jhonys de moya;adolfo escobar
+18003;22;6;18;pfizer;pfizer bquilla;bodega;mantenimiento preventivo;AA;15:00:00;16:00:00;3;jhonys de moya;adolfo escobar
+18004;22;6;18;pfizer;pfizer bquilla;terraza;mantenimiento preventivo;AA;16:10:00;17:30:00;3;jhonys de moya;adolfo escobar
+18005;23;6;18;pfizer;pfizer bquilla;interior;mantenimiento preventivo;AA;8:00:00;13:00:00;3;eric martinez, jhonys de moya;adolfo escobar
+18006;25;6;18;banco de bogota;zonas comunes;zonas comunes;mantenimiento preventivo;AA, VCE, CVA;8:00:00;11:00:00;4;jhonys de moya;adolfo escobar
+18007;25;6;18;banco de bogota;centro de operaciones;interior;mantenimiento preventivo;AA;12:00:00;17:30:00;4;eric martinez, jhonys de moya;adolfo escobar
+18008;25;6;18;banco de bogota;cuarto de rack;interior 2do piso;mantenimiento preventivo;AA, VCE;15:00:00;17:30:00;4;eric martinez, jhonys de moya;adolfo escobar
+18009;26;6;18;banco de bogota;centro de operaciones;interior;mantenimiento preventivo;AA;8:00:00;11:00:00;4;jhonys de moya;adolfo escobar
+18010;26;6;18;banco de bogota;centro de servicios corporativos;interior;mantenimiento preventivo;AA;12:00:00;14:00:00;4;jhonys de moya;adolfo escobar
+18011;26;6;18;banco de bogota;zonas comunes;interior;mantenimiento preventivo;AA;14:00:00;17:30:00;4;jhonys de moya;adolfo escobar
+18012;27;6;18;banco de bogota;local sucursal bancaria;interior;mantenimiento preventivo;AA, VCE;8:00:00;18:00:00;4;jhonys de moya;adolfo escobar
+18013;27;6;18;banco de bogota;local premium;interior;mantenimiento preventivo;AA, VCE;8:00:00;18:00:00;4;eric martinez;n/a
+18014;28;6;18;banco de bogota;local sucursal bancaria;interior;mantenimiento preventivo;AA, VCE;8:00:00;18:00:00;4;jhonys de moya;adolfo escobar
+18015;28;6;18;banco de bogota;local premium;interior;mantenimiento preventivo;AA, VCE;8:00:00;18:00:00;4;eric martinez;n/a
